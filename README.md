@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @OscarOTorres
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested on working as full stack Python Developer.
+- 🌱 I’m currently learning SQLite and MySQL for Python. 
+- 💞️ I’m looking to collaborate on Machine Learning and Atificial Itelligence.
+- 📫 How to reach me in oscarosvaldotorreslopez@gmail.com or oscartracko@gmail.com
 
-<!---
-OscarOTorres/OscarOTorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+print("How is your day?,")
+x = input( "Good or Bad")
+if x =="Good":
+  print("Keep on going!")
+elif x=="Bad":
+  print("Never give up!") 
+  
+print("Have a nice day")
